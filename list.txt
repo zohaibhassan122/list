@@ -1,7 +1,1 @@
-# ===========================================
-# Autor: Walter Wiedenhofer
-# Date: 15. Oktober 2020 10:41 (UTC)
-# Number of unique domains: 82.108
-# Project home page: https://www.sunshine.it
-# Title: sunshine.it - pi-hole - Black-List
-https://www.nts.org.pk/
+nts.org.pk
